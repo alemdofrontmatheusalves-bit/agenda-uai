@@ -1,0 +1,19 @@
+project_id = "atdfulijwrwaizumvouh"
+
+[functions.find-or-create-client]
+verify_jwt = false
+
+[functions.list-available-services]
+verify_jwt = false
+
+[functions.get-available-slots]
+verify_jwt = false
+
+[functions.create-appointment]
+verify_jwt = false
+
+[functions.list-available-professionals]
+verify_jwt = false
+
+[functions.get-organization-by-whatsapp]
+verify_jwt = false
